@@ -1,9 +1,9 @@
 import React from 'react'
 import {
-    BrowserRouter as Router,
     Switch,
     Route,
     Redirect,
+    HashRouter,
 } from "react-router-dom";
 import { LoginScreen } from '../components/auth/LoginScreen';
 import { CalendarScreen } from '../components/calendar/CalendarScreen';
@@ -11,8 +11,7 @@ import { RegisterScreen } from '../components/auth/RegisterScreen';
 
 export const AppRouter = () => {
     return (
-        <div>
-            <Router>
+            <HashRouter>
                 <div>
                     <Switch>
                         <Route exact path="/login">
@@ -28,7 +27,6 @@ export const AppRouter = () => {
                         <Redirect to="/" />
                     </Switch>
                 </div>
-            </Router>
-        </div>
+            </HashRouter>
     ) 
 }
