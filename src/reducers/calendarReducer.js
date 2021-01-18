@@ -4,14 +4,14 @@ import { types } from '../types/types';
 const inicialState = {
     events: [{
         id: new Date().getTime(),
-        title: 'Cumpleaños del jefe',
+        title: 'Mi evento',
         start: moment().toDate(),
         end: moment().add(2, 'hours').toDate(),
         bgcolor: '#fafafa',
-        notes: "Comprar el pastel",
+        notes: "Notas sobre mi evento",
         user: {
             _id: 123,
-            name: 'Fernando'
+            name: 'Daniela'
         }
     }],
     activeEvent: null
