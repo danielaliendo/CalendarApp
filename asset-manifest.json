@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/CalendarApp/static/css/main.cd28f5d1.chunk.css",
-    "main.js": "/CalendarApp/static/js/main.baa850d8.chunk.js",
-    "main.js.map": "/CalendarApp/static/js/main.baa850d8.chunk.js.map",
+    "main.css": "/CalendarApp/static/css/main.e8ef71a6.chunk.css",
+    "main.js": "/CalendarApp/static/js/main.d4fea2f5.chunk.js",
+    "main.js.map": "/CalendarApp/static/js/main.d4fea2f5.chunk.js.map",
     "runtime-main.js": "/CalendarApp/static/js/runtime-main.c252336e.js",
     "runtime-main.js.map": "/CalendarApp/static/js/runtime-main.c252336e.js.map",
     "static/css/2.1e6b9a36.chunk.css": "/CalendarApp/static/css/2.1e6b9a36.chunk.css",
-    "static/js/2.23b5b6c9.chunk.js": "/CalendarApp/static/js/2.23b5b6c9.chunk.js",
-    "static/js/2.23b5b6c9.chunk.js.map": "/CalendarApp/static/js/2.23b5b6c9.chunk.js.map",
+    "static/js/2.1b90dd8b.chunk.js": "/CalendarApp/static/js/2.1b90dd8b.chunk.js",
+    "static/js/2.1b90dd8b.chunk.js.map": "/CalendarApp/static/js/2.1b90dd8b.chunk.js.map",
     "index.html": "/CalendarApp/index.html",
     "static/css/2.1e6b9a36.chunk.css.map": "/CalendarApp/static/css/2.1e6b9a36.chunk.css.map",
-    "static/css/main.cd28f5d1.chunk.css.map": "/CalendarApp/static/css/main.cd28f5d1.chunk.css.map",
-    "static/js/2.23b5b6c9.chunk.js.LICENSE.txt": "/CalendarApp/static/js/2.23b5b6c9.chunk.js.LICENSE.txt"
+    "static/css/main.e8ef71a6.chunk.css.map": "/CalendarApp/static/css/main.e8ef71a6.chunk.css.map",
+    "static/js/2.1b90dd8b.chunk.js.LICENSE.txt": "/CalendarApp/static/js/2.1b90dd8b.chunk.js.LICENSE.txt",
+    "static/media/poster.2a0908b6.png": "/CalendarApp/static/media/poster.2a0908b6.png",
+    "static/media/video.e38af241.mp4": "/CalendarApp/static/media/video.e38af241.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.c252336e.js",
     "static/css/2.1e6b9a36.chunk.css",
-    "static/js/2.23b5b6c9.chunk.js",
-    "static/css/main.cd28f5d1.chunk.css",
-    "static/js/main.baa850d8.chunk.js"
+    "static/js/2.1b90dd8b.chunk.js",
+    "static/css/main.e8ef71a6.chunk.css",
+    "static/js/main.d4fea2f5.chunk.js"
   ]
 }
