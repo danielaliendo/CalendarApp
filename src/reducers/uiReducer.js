@@ -2,6 +2,7 @@ import { types } from "../types/types";
 
 const inicialState = {
     modalOpen: false,
+    buttonLogout: false,
 }
 
 export const uiReducer = ( state = inicialState , action) => {
